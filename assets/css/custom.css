@@ -30,7 +30,12 @@ html {
 	user-select: none;
 }
 
-.clicks {
+.clicks,
+.cats-title {
 	text-align: center;
 	margin-top: 10px;
+}
+
+.cats-title {
+	margin-bottom: 10px;
 }
