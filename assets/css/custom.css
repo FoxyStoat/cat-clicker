@@ -1,3 +1,36 @@
-body {
-	background: blue;
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* border box fix */
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 60px;
+}
+
+.lucky-cat {
+	width: 400px;
+	border: 5px solid #000;
+	box-shadow: 5px 5px 5px #d3d3d3;
+	cursor: pointer;
+	/*To disable the blue color highlight if and img is clicked*/
+	user-select: none;
+}
+
+.cat-clicks {
+	text-align: center;
 }
