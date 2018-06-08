@@ -6,7 +6,7 @@ Udacity Project/Coursework for FEND / Based around Cow Clicker but with cats.
 
 ## Project Requirements for Cat Clicker
 
-#### Requirements One
+### Requirements One
 
 #### Visuals
 
@@ -17,7 +17,7 @@ Udacity Project/Coursework for FEND / Based around Cow Clicker but with cats.
 
 * The number of clicks should increment when the cat picture is clicked.
 
-#### Requirements Two
+### Requirements Two
 
 #### Visuals
 
