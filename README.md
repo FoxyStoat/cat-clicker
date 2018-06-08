@@ -2,6 +2,8 @@
 
 Udacity Project/Coursework for FEND / Based around Cow Clicker but with cats.
 
+[Link to Project on live GitHub Page](https://foxystoat.github.io/cat-clicker/)
+
 ## Project Requirements for Cat Clicker
 
 #### Requirements One
