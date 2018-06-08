@@ -16,13 +16,12 @@ html {
 
 .container {
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	justify-content: space-around;
 	align-items: center;
 	margin: 60px;
 }
 
-.lucky-cat {
+.cat-img {
 	width: 400px;
 	border: 5px solid #000;
 	box-shadow: 5px 5px 5px #d3d3d3;
@@ -31,7 +30,7 @@ html {
 	user-select: none;
 }
 
-.cat-clicks {
+.clicks {
 	text-align: center;
 	margin-top: 10px;
 }
