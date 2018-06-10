@@ -14,6 +14,10 @@ html {
 	box-sizing: border-box;
 }
 
+body {
+	font-family: 'Karma', serif;
+}
+
 .container {
 	display: flex;
 	justify-content: space-around;
